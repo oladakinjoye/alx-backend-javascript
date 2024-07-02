@@ -1,6 +1,5 @@
 /**
  * Create a list of students.
- * @author Babatunde Oladunjoye <https://github.com/oladakinjoye>
  * @returns {{id: Number, firstName: String, location: String}[]}
  */
 export default function getListStudents() {
